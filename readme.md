@@ -1,5 +1,3 @@
-
-
 qwerty
 pricella modified
 code written
